@@ -11,8 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -175,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603011240380</updated>
-      <workItem from="1603011242800" duration="7105000" />
+      <workItem from="1603011242800" duration="20573000" />
     </task>
     <servers />
   </component>
@@ -191,9 +191,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603011245309" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1603032523753">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604542445599">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603032523753" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604542445599" />
   </component>
 </project>
