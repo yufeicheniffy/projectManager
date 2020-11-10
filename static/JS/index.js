@@ -13,12 +13,12 @@ let saveFlag=false;
 
 function freshTableDate(){
     $('#tbody').html(" <tr id=\"tr_project1\">\
-                        <th class=\"table_name\">陈宇飞</th>\
-                        <th class=\"table_project\">项目进度管理系统开发</th>\
-                        <th class=\"table_progress\">主页开发</th>\
-                        <th class=\"table_time\">2020/10/23</th>\
-                        <th class=\"table_finishTime\">暂定</th>\
-                        <th><a href='detail.html'>查看详情</a></th>\
+                        <td class=\"table_name\">陈宇飞</td>\
+                        <td class=\"table_project\">项目进度管理系统开发</td>\
+                        <td class=\"table_progress\">主页开发</td>\
+                        <td class=\"table_time\">2020/10/23</td>\
+                        <td class=\"table_finishTime\">暂定</td>\
+                        <td><a href='projectDetails.html'>查看详情</a></td>\
                     </tr>\
     "
 
@@ -27,12 +27,12 @@ function freshTableDate(){
 
 function addnewTableData(n,name,project,progress,time,finishTime){
     $('#tbody').html(" <tr id=\"tr_project"+n+"\">\
-                        <th class=\"table_name\">"+name+"</th>\
-                        <th class=\"table_project\">"+project+"</th>\
-                        <th class=\"table_progress\">"+progress+"</th>\
-                        <th class=\"table_time\">"+time+"</th>\
-                        <th class=\"table_finishTime\">"+finishTime+"</th>\
-                        <th><a href='detail.html'>查看详情</a></th>\
+                        <td class=\"table_name\">"+name+"</td>\
+                        <td class=\"table_project\">"+project+"</td>\
+                        <td class=\"table_progress\">"+progress+"</td>\
+                        <td class=\"table_time\">"+time+"</td>\
+                        <td class=\"table_finishTime\">"+finishTime+"</td>\
+                        <td><a href='projectDetails.html'>查看详情</a></td>\
                     </tr>\
     "+$('#tbody').html()
     )
@@ -40,12 +40,12 @@ function addnewTableData(n,name,project,progress,time,finishTime){
 
 function addnewTableData2(){
     $('#tbody').html(" <form action='' name='newDataForm'> <tr id=\"tr_project_save\" class='wfInput'>\
-                        <th class=\"table_name\">"+"<input type='text' placeholder='请输入姓名' name='name' >"+"</th>\
-                        <th class=\"table_project\">"+"<input type='text' placeholder='请输入项目名' name='project'>"+"</th>\
-                        <th class=\"table_progress\">"+"<input type='text' placeholder='请输入项目进度' name='progress'>"+"</th>\
-                        <th class=\"table_time\">"+"<input type='date' placeholder='请输入本阶段完成时间' name='stageTime'>"+"</th>\
-                        <th class=\"table_finishTime\">"+"<input type='date' placeholder='请输入项目完成时间' name='finishTime'>"+"</th>\
-                        <th><button class=\"saveButton\" id='saveButton'>保存</button></th>\
+                        <td class=\"table_name\">"+"<input type='text' placeholder='请输入姓名' name='name' >"+"</td>\
+                        <td class=\"table_project\">"+"<input type='text' placeholder='请输入项目名' name='project'>"+"</td>\
+                        <td class=\"table_progress\">"+"<input type='text' placeholder='请输入项目进度' name='progress'>"+"</td>\
+                        <td class=\"table_time\">"+"<input type='date' placeholder='请输入本阶段完成时间' name='stageTime'>"+"</td>\
+                        <td class=\"table_finishTime\">"+"<input type='date' placeholder='请输入项目完成时间' name='finishTime'>"+"</td>\
+                        <td><button class=\"saveButton\" id='saveButton'>保存</button></td>\
                     </tr>\
                     </form>\
     "+$('#tbody').html()

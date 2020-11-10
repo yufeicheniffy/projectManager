@@ -45,14 +45,14 @@ $("#name1").bind("click",function () {
 
 function addnewTableData(stage,project,stageName,state,time,projectDetails){
     $('#tbody').html(" <tr id=\"tr_stage"+stage+"\">\
-                        <th class=\"table_project\">"+project+"</th>\
-                        <th class=\"table_stage\">"+stageName+"</th>\
-                        \<th class=\"table_state\">"+state+"</th>\
-                        \<th class=\"table_time\">"+time+"</th>\
-                        <th class=\"table_finishTime\">"+projectDetails+"</th>\
-                        <th><button class=\"editButton\">修改</button></th>\
+                        <td class=\"table_project\">"+project+"</td>\
+                        <td class=\"table_stage\">"+stageName+"</td>\
+                        \<td class=\"table_state\">"+state+"</td>\
+                        \<td class=\"table_time\">"+time+"</td>\
+                        <td class=\"table_finishTime\">"+projectDetails+"</td>\
+                        <td><a href='projectDetails.html'>查看详情</a></td>\
                     </tr>\
-    "+$('#tbody').html()
+    "
     )
 }
 

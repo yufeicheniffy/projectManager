@@ -1,0 +1,91 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    -moz-box-shadow:5px 6px 4px #333333; -webkit-box-shadow:5px 6px 4px #333333; box-shadow:5px 6px 4px #333333;
+      padding: 2vh;
+}
+footer{
+    height: 5vh;
+}
+#butNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#title{
+    font-size:2em;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#title>span{
+    margin-left: -5em;
+}
+#displayWindow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+        table
+        {
+            border-collapse: collapse;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 1.5em;
+        }
+        table td, table th
+        {
+            border: 1px solid #cad9ea;
+            color: #666;
+            height: 40px;
+        }
+        table thead th
+        {
+            background-color: #CCE8EB;
+            width: 10em;
+        }
+        table tr:nth-child(odd)
+        {
+            background: #fff;
+        }
+        table tr:nth-child(even)
+        {
+            background: #F5FAFA;
+        }
+main{
+    height: 80vh;
+}
+.icon{
+      padding: 0.5em;
+}
+.icon:hover{
+    background-color: lightblue;
+    border-radius: 50%;
+}
+#titleBar{
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px grey solid;
+    font-size: 1.5rem;
+    background-color: dodgerblue;
+    color: white;
+}
+#titleBar > .subtitle{
+    color: lightgrey;
+}
+.table_projectDetails{
+    font-size: 0.5rem;
+}
+#tbody td{
+    font-size:1rem;
+}

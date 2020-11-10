@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../proRecoder/.idea/proRecorder.iml" filepath="$PROJECT_DIR$/../proRecoder/.idea/proRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projectManager.iml" filepath="$PROJECT_DIR$/.idea/projectManager.iml" />
     </modules>
   </component>
 </project>
