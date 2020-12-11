@@ -12,10 +12,12 @@ header{
 }
 footer{
     height: 5vh;
+    position: fixed;
+    left: 0px;
 }
 #butNav{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
 }
 #title{
@@ -68,4 +70,45 @@ main{
 .icon:hover{
     background-color: lightblue;
     border-radius: 50%;
+}
+.secondTable{
+ width:100%;
+}
+.table_edit{
+    width:10%;
+}
+.tableWrapper{
+    margin:10px;
+    padding:10px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+}
+
+.detailsWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    margin: 10px 0;
+    padding: 5px;
+}
+.eventName{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid grey;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #666666;
+}
+.detailTable{
+    width:95%;
+}
+.detailsTable-Wrapper table{
+    width: 90%;
+}
+.detailsTable-Wrapper{
+    display: flex;
+    flex-direction: row;
+     width:95%;
 }
