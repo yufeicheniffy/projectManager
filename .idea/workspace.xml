@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17c7066-8062-4eba-a16e-4b7896f25f94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/主要项目情况.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mainprojects.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/JS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/JS/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/JS/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -41,7 +42,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/主要项目情况.txt">
+        <entry file="file://$PROJECT_DIR$/node_modules/mainprojects.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="3471" selection-start-column="3471" selection-end-column="3471" />
@@ -141,6 +142,11 @@
               <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectManager" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -214,7 +220,7 @@
       <workItem from="1605006509747" duration="31000" />
       <workItem from="1605006547184" duration="4155000" />
       <workItem from="1605056146738" duration="111000" />
-      <workItem from="1607503307610" duration="33804000" />
+      <workItem from="1607503307610" duration="34006000" />
     </task>
     <task id="LOCAL-00001" summary="finish version">
       <created>1607689872417</created>
@@ -227,7 +233,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38119000" />
+    <option name="totallyTimeSpent" value="38321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="0" width="1225" height="877" extended-state="0" />
@@ -351,7 +357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/主要项目情况.txt">
+    <entry file="file://$PROJECT_DIR$/node_modules/mainprojects.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="3471" selection-start-column="3471" selection-end-column="3471" />
@@ -370,8 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/JS/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
