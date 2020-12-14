@@ -16,7 +16,7 @@ function ejectDetails(id){ //id: project id
 
 $(document).ready(
     function() {
-        getJson("./smainprojects.txt").then(function (data) {
+        getJson("./mainprojects.txt").then(function (data) {
             let xmjdDate = JSON.parse(data);
             for (let n = 0; n < xmjdDate.length; n++) {  //add all projects
                 let ifn = (n > 0 ? 1 : 0);
@@ -71,7 +71,7 @@ if(ifAdd===0){
                 <thead>\
                 <tr  class='tr_2'>\
                    <td class='table_details'>"+details+"</td>\
-                    <td class='detailsButton'><button id='detailsButton"+projectId+"'>查看详情</button></td>\
+                    <td><button  class='detailsButton' id='detailsButton"+projectId+"'>查看详情</button></td>\
                 </tr>\
                 </table>\
                 \ </div>\
@@ -105,7 +105,7 @@ else{
                 <thead>\
                 <tr  class='tr_2'>\
                    <td class='table_details'>"+details+"</td>\
-                    <td><button id='detailsButton"+projectId+"' class='detailsButton'>查看详情</button></a></td>\
+                    <td><button class='detailsButton' id='detailsButton"+projectId+"' class='detailsButton'>查看详情</button></a></td>\
                 </tr>\
                 </table>\
                 \ </div>\

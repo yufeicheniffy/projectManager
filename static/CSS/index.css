@@ -112,3 +112,6 @@ main{
     flex-direction: row;
      width:95%;
 }
+.detailsButton{
+    padding: 10px 5px;
+}
