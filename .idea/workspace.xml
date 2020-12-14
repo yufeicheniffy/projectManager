@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17c7066-8062-4eba-a16e-4b7896f25f94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mainprojects.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/JS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/JS/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/JS/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="255">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -53,13 +54,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainprojects.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -118,17 +124,6 @@
               <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectManager" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="datafile" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,7 +141,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/datafile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -155,6 +150,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\efiechan\Documents\GitHub\projectManager" />
       <recent name="C:\Users\efiechan\Documents\GitHub\projectManager\static\datafile" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -207,7 +203,7 @@
       <workItem from="1605006547184" duration="4155000" />
       <workItem from="1605056146738" duration="111000" />
       <workItem from="1607503307610" duration="34376000" />
-      <workItem from="1607693963456" duration="3863000" />
+      <workItem from="1607693963456" duration="4587000" />
     </task>
     <task id="LOCAL-00001" summary="finish version">
       <created>1607689872417</created>
@@ -220,13 +216,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42554000" />
+    <option name="totallyTimeSpent" value="43278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="0" width="1225" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17878528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17878528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,7 +236,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23395722" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23395722" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,13 +336,6 @@
     <entry file="file://$PROJECT_DIR$/static/datafile/中交一公局（遵义南部新区第一项目包）.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/CSS/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/coverToJson.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -354,10 +343,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/JS/index.js">
+    <entry file="file://$PROJECT_DIR$/mainprojects.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/CSS/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="136">
+          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -365,6 +357,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/JS/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
