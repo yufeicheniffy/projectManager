@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17c7066-8062-4eba-a16e-4b7896f25f94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/datafile/mainprojects.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/中交一公局（遵义南部新区第一项目包）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/云尚公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/兰草坝项目.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/参数.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/国际城.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/西南能矿集团股份有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵州中交德余高速公路有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵州华联综合超市有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵州君悦阳光置业有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵州蔬菜集团有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵州轮胎股份有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵州黔中高速公路开发有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵阳云岩贵中土地开发基本建设投资管理集团有限公司.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/datafile/贵阳市云岩国有投资控股集团.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/JS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/JS/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/JS/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="391">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -72,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="51">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -223,7 +207,7 @@
       <workItem from="1605006547184" duration="4155000" />
       <workItem from="1605056146738" duration="111000" />
       <workItem from="1607503307610" duration="34376000" />
-      <workItem from="1607693963456" duration="2003000" />
+      <workItem from="1607693963456" duration="2929000" />
     </task>
     <task id="LOCAL-00001" summary="finish version">
       <created>1607689872417</created>
@@ -236,13 +220,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40694000" />
+    <option name="totallyTimeSpent" value="41620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="0" width="1225" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17878528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17878528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,7 +240,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23395722" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23395722" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -356,13 +340,6 @@
     <entry file="file://$PROJECT_DIR$/static/datafile/中交一公局（遵义南部新区第一项目包）.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/CSS/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -377,10 +354,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/JS/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
