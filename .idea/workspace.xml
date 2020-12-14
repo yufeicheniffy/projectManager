@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17c7066-8062-4eba-a16e-4b7896f25f94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/node_modules/主要项目情况.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mainprojects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/mainprojects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/中交一公局（遵义南部新区第一项目包）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/云尚公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/兰草坝项目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/参数.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/国际城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/西南能矿集团股份有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵州中交德余高速公路有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵州华联综合超市有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵州君悦阳光置业有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵州蔬菜集团有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵州轮胎股份有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵州黔中高速公路开发有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵阳云岩贵中土地开发基本建设投资管理集团有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/datafile/贵阳市云岩国有投资控股集团.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/JS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/JS/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,31 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/JS/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/mainprojects.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3471" selection-start-column="3471" selection-end-column="3471" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/中交一公局（遵义南部新区第一项目包）.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -62,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/coverToJson.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -71,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/CSS/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -80,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="238">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -100,6 +92,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>g</find>
+      <find>主要项目</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,8 +110,8 @@
         <option value="$PROJECT_DIR$/coverToJson.js" />
         <option value="$PROJECT_DIR$/node_modules/coverToJson.js" />
         <option value="$PROJECT_DIR$/static/CSS/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static/JS/index.js" />
       </list>
     </option>
@@ -134,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,12 +137,19 @@
             <path>
               <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectManager" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="datafile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -163,7 +162,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/datafile" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -171,6 +170,9 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\efiechan\Documents\GitHub\projectManager\static\datafile" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\efiechan\Documents\GitHub\projectManager\static\datafile" />
       <recent name="C:\Users\efiechan\Documents\GitHub\projectManager\node_modules" />
@@ -220,7 +222,8 @@
       <workItem from="1605006509747" duration="31000" />
       <workItem from="1605006547184" duration="4155000" />
       <workItem from="1605056146738" duration="111000" />
-      <workItem from="1607503307610" duration="34006000" />
+      <workItem from="1607503307610" duration="34376000" />
+      <workItem from="1607693963456" duration="2003000" />
     </task>
     <task id="LOCAL-00001" summary="finish version">
       <created>1607689872417</created>
@@ -233,13 +236,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38321000" />
+    <option name="totallyTimeSpent" value="40694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="0" width="1225" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17621899" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17878528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,33 +332,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/xmjd.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/中交一公局（遵义南部新区第一项目包）.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/CSS/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/coverToJson.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/node_modules/xmjd.txt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/mainprojects.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -364,20 +343,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/node_modules/中交一公局（遵义南部新区第一项目包）.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/datafile/mainprojects.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/datafile/中交一公局（遵义南部新区第一项目包）.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/CSS/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/coverToJson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/JS/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>

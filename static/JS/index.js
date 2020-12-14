@@ -3,7 +3,7 @@ let saveFlag=false;
 function ejectDetails(id){ //id: project id
     let tableString = "#tableWrapper"+id+" .table_cusName";
     console.log(" loading"+$(tableString).html());
-    getJson("./node_modules/"+$(tableString).html()+".txt").then(function(data){
+    getJson("./static/datafile/"+$(tableString).html()+".txt").then(function(data){
         let detailData=JSON.parse(data);
         for(let i=1;i<detailData.length;i++){
         addSingleDetailWrapper(detailData[i],id);
@@ -16,7 +16,7 @@ function ejectDetails(id){ //id: project id
 
 $(document).ready(
     function() {
-        getJson("./node_modules/mainprojects.txt").then(function (data) {
+        getJson("./static/datafile/mainprojects.txt").then(function (data) {
             let xmjdDate = JSON.parse(data);
             for (let n = 0; n < xmjdDate.length; n++) {  //add all projects
                 let ifn = (n > 0 ? 1 : 0);
