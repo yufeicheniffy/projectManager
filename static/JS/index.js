@@ -16,7 +16,7 @@ function ejectDetails(id){ //id: project id
 
 $(document).ready(
     function() {
-        getJson("./mainprojects.txt").then(function (data) {
+        getJson("./static/datafile/主要项目情况.txt").then(function (data) {
             let xmjdDate = JSON.parse(data);
             for (let n = 0; n < xmjdDate.length; n++) {  //add all projects
                 let ifn = (n > 0 ? 1 : 0);
